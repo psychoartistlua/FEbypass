@@ -1,4 +1,4 @@
-# FEbypass
+# FEbypass (works only for solara)
 local LinkingService = gameGetService(LinkingService)
 local ScriptContext = gameGetService(ScriptContext)
 
